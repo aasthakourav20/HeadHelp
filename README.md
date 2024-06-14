@@ -10,7 +10,7 @@
 
 
 
-- Added requirements.txt for easy installation of dependencies 
+ Added requirements.txt for easy installation of dependencies 
 
 Before you run the scripts, ensure you have Python version <=3.8 installed (preferably Python 3.8; required for installing some libraries like Tensorflow). 
 
@@ -18,7 +18,7 @@ Before you run the scripts, ensure you have Python version <=3.8 installed (pref
 
 Chatbots can be classified on the basis of different attributes - 
 
-<img src="![Screenshot (303)](https://github.com/aasthakourav20/HeadHelp/assets/148269962/2355d1c5-40fb-4525-8327-90c6ee616622)" width="500" height="600">
+![Screenshot (303)](https://github.com/aasthakourav20/HeadHelp/assets/148269962/2355d1c5-40fb-4525-8327-90c6ee616622) 
 
 My research was related to the design approaches, namely, rule-based, retrieval-based, and generative-based.
 
