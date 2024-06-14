@@ -1,6 +1,13 @@
 # HeadHelp 🤝
 
 ## Chatbot for mental health
+ HeadHelp is a project aimed at developing chatbots for mental health support using different chatbot models, including rule-based, retrieval-based, and generative-based approaches.
+
+## Features
+- **Rule-based Chatbot**: Uses simple rule-based mapping or pattern matching to select responses.
+- **Retrieval-based Chatbot**: Uses machine learning models like RNN, LSTM, Bi-LSTM, GRU, and CNN to select responses.
+- **Generative-based Chatbot**: Uses NLP and encoder-decoder models to generate new responses from scratch.
+
 
 
 - Added requirements.txt for easy installation of dependencies 
