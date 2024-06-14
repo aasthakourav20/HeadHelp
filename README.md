@@ -1,4 +1,4 @@
-# HeadHelp 
+# HeadHelp 🤝
 
 ## Chatbot for mental health
 
@@ -11,7 +11,7 @@ Before you run the scripts, ensure you have Python version <=3.8 installed (pref
 
 Chatbots can be classified on the basis of different attributes - 
 
-<img src="https://github.com/pandeyanuradha/Chatbot-for-mental-health/blob/cf6ec506c29952048d698fbea18708cf275d66e7/classification.png" width="500" height="600">
+<img src="![Screenshot (303)](https://github.com/aasthakourav20/HeadHelp/assets/148269962/2355d1c5-40fb-4525-8327-90c6ee616622)" width="500" height="600">
 
 My research was related to the design approaches, namely, rule-based, retrieval-based, and generative-based.
 
@@ -20,7 +20,7 @@ My research was related to the design approaches, namely, rule-based, retrieval-
 3. Generative-based Chatbots: Generative models do not rely on predefined responses. They come up with new replies from scratch. Machine Translation techniques are typically used in generative models, but instead of translating from one language to another, we "translate" from input to output (response). Generative models are used for the creation because they learn from scratch.
 
 
-## Overview of the bots trained 
+## Overview of the bots trained 🚀
 
 The dataset was picked up from Kaggle - [Mental Health FAQ](https://www.kaggle.com/narendrageek/mental-health-faq-for-chatbot). This dataset consists of 98 FAQs about Mental Health. It consists of 3 columns - QuestionID, Questions, and Answers. 
 
